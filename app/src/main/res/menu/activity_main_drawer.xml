@@ -5,27 +5,27 @@
 
     <group android:checkableBehavior="single">
         <item
-            android:id="@+id/adminlogin"
+            android:id="@+id/nav_home"
             android:icon="@drawable/admin_login"
             android:title="@string/admin_login" />
         <item
-            android:id="@+id/showtt"
+            android:id="@+id/nav_tt"
             android:icon="@drawable/tt"
             android:title="@string/timetables" />
         <item
-            android:id="@+id/faculty"
+            android:id="@+id/nav_faculty_contact"
             android:icon="@drawable/faculty"
             android:title="@string/faculty_contact" />
         <item
-            android:id="@+id/cr"
+            android:id="@+id/nav_c_r_contact"
             android:icon="@drawable/cr_contact"
             android:title="@string/cr_contact" />
         <item
-            android:id="@+id/help"
+            android:id="@+id/nav_help"
             android:icon="@drawable/help"
             android:title="@string/help" />
         <item
-            android:id="@+id/about"
+            android:id="@+id/nav_about_us"
             android:icon="@drawable/about"
             android:title="@string/about_us" />
     </group>
